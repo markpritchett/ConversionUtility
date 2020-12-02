@@ -28,7 +28,7 @@ ConversionUtility.exe C:\temp\conversion-options.json
 	"Options":
 	[
 		{ "Find": "pull-left", "ReplaceWith": "float-left", "Extension": ".cshtml" },
-		{ "Find": "pull-right", "ReplaceWith": "pull-left", "Extension": ".cshtml" }
+		{ "Find": "pull-right", "ReplaceWith": "float-right", "Extension": ".cshtml" }
 	]
 }
 ```
