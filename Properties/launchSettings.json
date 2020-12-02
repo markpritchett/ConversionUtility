@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConversionUtility": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\conversion-options.json"
+    }
+  }
+}
